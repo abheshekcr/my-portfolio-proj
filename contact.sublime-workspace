@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/welcome/Desktop/css proj/index.html",
+		"/C/Users/welcome/Desktop/css proj/script.js",
+		"/C/Users/welcome/Desktop/my first proj/second proj/index.txt",
+		"/C/Users/welcome/Desktop/my first proj/proj/index.html",
+		"/C/Users/welcome/Desktop/my first proj/proj/about.html",
+		"/C/Users/welcome/Desktop/my first proj/proj/css/main.css",
+		"/C/Users/welcome/Desktop/my first proj/proj/css/responsive.css",
+		"/C/Users/welcome/Desktop/my first proj/proj/contact.html",
+		"/C/Users/welcome/Desktop/my first proj/second proj/New Text Document.txt",
+		"/C/Users/welcome/Desktop/my first proj/proj/images/phone.png",
+		"/C/Users/welcome/Desktop/my first proj/proj/images/twitter.png",
+		"/C/Users/welcome/Desktop/my first proj/proj/images/twitter-wrap.png",
+		"/C/Users/welcome/Desktop/my first proj/proj/images/mail.png",
+		"/C/Users/welcome/Desktop/my first proj/proj/css/about.html",
+		"/C/Users/welcome/Desktop/my first proj/proj/css/abot.html",
+		"/C/Users/welcome/Desktop/my first proj/proj/css/normalize.css",
+		"/C/Users/welcome/Desktop/my first proj/proj/main.css",
+		"/C/Users/welcome/Desktop/my first proj/proj/images/numbers-01.jpg",
+		"/C/Users/welcome/Desktop/my first proj/mian.css",
+		"/C/Users/welcome/Desktop/my first proj/index.txt",
+		"/C/Users/welcome/Desktop/portfolio/framework/main.css",
+		"/C/Users/welcome/Desktop/my first proj/index.html.txt",
+		"/C/Users/welcome/Desktop/portfolio/framework/test.html",
+		"/C/Users/welcome/Desktop/portfolio/toplist/style.css",
+		"/C/Users/welcome/Desktop/portfolio/toplist/myfile.css",
+		"/C/Users/welcome/Desktop/portfolio/toplist/index.html",
+		"/C/Users/welcome/Desktop/portfolio/toplist/index.html.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"textalign",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contact.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
